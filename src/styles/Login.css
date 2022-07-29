@@ -1,0 +1,149 @@
+
+.ui {
+    position: absolute;
+    width: 700px;
+    height: 780px;
+    left: 830px;
+    top: 90px;  
+      
+  }
+  
+  .log{
+    position: absolute;
+    width: 167px;
+    height: 64px;
+    left: 220px;
+    top: 150px;
+    font-family: Salsa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 31px;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    color: #556676;
+    mix-blend-mode: normal;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    
+  }
+ 
+   button {   
+             
+           width: 90px;  
+           color: rgb(0, 0, 0);   
+           padding: 15px;   
+           margin: 13px  45px;   
+           border: none;   
+           cursor: pointer;   
+
+           
+            }   
+  
+    input[type=text], input[type=password] {   
+           width: 20%;
+           padding: 10px;  
+           display: flex;   
+           height: 30px;
+           left: 47px;
+           top: 10px;  
+           margin-bottom: 30px; 
+           margin-top: -30px;;
+           
+       } 
+       
+     input[type=checkbox] {
+        margin-left: -630px;
+        margin-top: 260px;
+        position: absolute;
+        box-sizing: border-box;
+
+     } 
+    button:hover {   
+           opacity: 0.5;   
+       }   
+     
+    .container {     
+           
+           margin-top: 110px;
+           left: 50px;
+           top: 6%;
+       }   
+
+      
+      .fa:hover {
+          opacity: 0.5;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        height: auto;
+        padding: 45px;
+        margin-top: 70px;
+        margin-left: 162px;
+    }
+    
+    .or{
+        font-size: 20px;
+        margin-left: -10px;
+        margin-top: -20px;
+        padding-bottom: 30px;
+    }
+
+    .socialMedia{
+     margin-left: 40px;
+     font-size: 0.5rem;
+    }
+
+    .reg{
+      margin-left: 137px;
+      margin-top: -18px;
+    }
+    
+    .pas{
+      margin: -32px  58px;
+      padding-bottom: 70px;
+    }
+
+    .pers{
+      margin-left: -21px;
+      margin-bottom: -41px;
+    }  
+
+    .loc{
+      margin-left: -25px;
+      margin-bottom: -9px;
+    }
+
+    .che{
+      margin-left: -29px;
+      margin-bottom: -25px;
+    }
+
+    .lnk{
+      color: #007bb5;
+      margin-right: 5px;
+      font-size: 2rem;
+      
+    }
+    .fac{
+      color: #3B5998;
+      margin-right: 5px;
+    }
+
+    .twi{
+      color: rgb(41, 38, 38);;
+      
+      margin-right: 5px;
+      padding: 2px 1px;
+      top: 5px;
+    }
+    
+    .ema{
+      color: rgb(0, 0, 0); 
+      
+    }
+     
